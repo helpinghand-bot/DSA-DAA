@@ -51,6 +51,11 @@ void matrixChainOrder(int p[], int n)
 
 int main() 
 { 
+	//fast cpp code
+	ios_base::sync_with_stdio(false);
+	cin.tie(0);
+	cout.tie(0);
+	
 	int arr[] = {40, 20, 30, 10, 30}; 
 	int n = sizeof(arr)/sizeof(arr[0]); 
 	matrixChainOrder(arr, n); 
