@@ -1,2 +1,2 @@
 # DSA-DAA
-Assignment Questions
+Assignment Questions for data structures
